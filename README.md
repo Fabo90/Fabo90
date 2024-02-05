@@ -7,8 +7,8 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 <h2> 🧑‍💻 Skills </h2>
 <ul>
 <li>Programming Languages: JavaScript, Python</li>
-
 <li>Frameworks: React, Bootstrap, Flask</li>
+<li>Database: SQL Alchemy</li>
 </ul>
 
 <h2> ⌨️ 🖱️ Projects</h2>

@@ -13,17 +13,28 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 
 <h2> ⌨️ 🖱️ Projects</h2>
 
-#### Client Relationship Management Platform
-- **Description:** Developed an online platform allowing users to access a centralized database for managing client relationships effectively.
+#### CRM-for-SME: Client Relationship Management Platform
+- **Description:** CRM-for-SME is an online platform that allows users to access a centralized database for managing client relationships effectively.
 - **Features:**
-  - **Clients** Users can create and maintain a client roster for easy access and management.
+  - **Clients:** Users can create and maintain a client roster for easy access and management.
   - **Tasks:** Organize and track pending activities associated with each client to ensure timely follow-ups and deliverables.
   - **Notes:** Capture important client-related information and insights to facilitate personalized interactions and better relationship management.
   - **Billing:** Seamlessly generate invoices and track payments for client services rendered.
   - **Stripe Integration:** Integrated Stripe API to generate secure payment links, streamlining the billing process and enhancing payment collection.
-- **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, React.js, Flask, Python 
+- **Technologies Used:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Flask, Python, SQL Alchemy, flux architecture, JWT token
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/CRM-for-SME)
+
+#### IrisChat: Real-time Chat Application
+- **Description:** IrisChat is a real-time chat application that enables users to send private messages within the registered users in the application. The application provides a seamless and interactive platform for communication, encouraging collaboration and connectivity among users.
+- **Features:**
+  - **Real-time Messaging:** Utilizes Socket.IO and Flask-SocketIO technology to facilitate instant messaging, ensuring timely communication between users.
+  - **Private Messaging:** Allows users to send private messages to specific individuals, ensuring confidentiality and privacy.
+  - **User Authentication:** Implements secure user authentication and authorization mechanisms using werkzeug.security to hash user passwords and JWT tokens to secure sessions, ensuring robust security measures.
+  - **User information:** Provides user information section where users can update their password, enhancing user security.
+- **Technologies Used:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Flask, Python, SQL Alchemy, flux architecture, Postgress, Socket.IO, Flask-SocketIO, werkzeug.security, JWT token
+- **Status:** In Progress
+- **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/IrisChat)
 
 ### Fun Facts about Me:
 - 🥁 Drummer for over 10 years, jamming to Nu-metal and Grunge. Got a song recommendation? Share it, and I'll drum up a storm!

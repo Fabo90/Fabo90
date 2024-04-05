@@ -6,34 +6,39 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 
 <h2> 🧑‍💻 Programming languages, frameworks and tools </h2>
 
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" width="125" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" /> 
+<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" width="125" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" width="105" height="40" />
 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" width="125" height="50" /><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" width="125" height="40" /><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="40" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_168170.png" width="125" height="50" /> 
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" width="125" height="50" /><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" width="125" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="125" height="40" /> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_168170.png" width="125" height="50" /> 
 
 
 <h2> ⌨️ 🖱️ Projects</h2>
 
 #### CRM-for-SME: Client Relationship Management for Small and Medium Enterprises 
-- **Description:** CRM-for-SME is an online platform that allows users to access a centralized database for managing client relationships effectively.
+- **Description:** CRM-for-SME is an online platform designed to streamline client relationship management. It provides users with access to a centralized database, enabling effective management of client interactions. The platform was primarily developed using Flask, Python, React.js, and Flux architecture.
 - **Features:**
   - **Clients:** Users can create and maintain a client roster for easy access and management.
   - **Tasks:** Organize and track pending activities associated with each client to ensure timely follow-ups and deliverables.
   - **Notes:** Capture important client-related information and insights to facilitate personalized interactions and better relationship management.
   - **Billing:** Seamlessly generate invoices and track payments for client services rendered.
   - **Stripe Integration:** Integrated Stripe API to generate secure payment links, streamlining the billing process and enhancing payment collection.
-- **Technologies Used:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Flask, Python, SQL Alchemy, Flux architecture, JWT token
+  - **User Authentication:** Ensures user data security by validating input during signup with RegEx, encrypting passwords using Werkzeug, and employing JWT to protect user sessions.
+  - **Database Reliability:** The interaction with a PostgreSQL database through SQLAlchemy ensures the integrity and consistency of the stored information, providing users with confidence in the data's accuracy.
+  - **User Interaction:** Enhanced user experience with visually appealing alerts using SweetAlert and achieved a polished graphical interface with Bootstrap and CSS3 for optimal usability.
+- **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, JWT, Werkzeug
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/CRM-for-SME)
 
 #### IrisChat: Real-time Chat Application
-- **Description:** IrisChat is a real-time chat application that enables users to send private messages within the registered users in the application. The application provides a seamless and interactive platform for communication, encouraging collaboration and connectivity among users.
+- **Description:** IrisChat is a real-time chat application that enables users to send private messages within the registered users in the application. The application provides a seamless and interactive platform for communication, encouraging collaboration and connectivity among users. The platform's main development relied heavily on Flask, Python, React.js, and the Flux architecture.
 - **Features:**
   - **Real-time Messaging:** Utilizes Socket.IO and Flask-SocketIO technology to facilitate instant messaging, ensuring timely communication between users.
   - **Private Messaging:** Allows users to send private messages to specific individuals, ensuring confidentiality and privacy.
-  - **User Authentication:** Implements secure user authentication and authorization mechanisms using werkzeug.security to hash user passwords and JWT tokens to secure sessions, ensuring robust security measures.
+  - **User Authentication:** Implements user data security with controlled inputs on signup using RegEx, encrypted passwords with Werkzeug and implemented JWT to safeguard user sessions.
   - **User information:** Provides user information section where users can update their password, enhancing user security.
-- **Technologies Used:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Flask, Python, SQL Alchemy, Flux architecture, Postgress, Socket.IO, Flask-SocketIO, werkzeug.security, JWT token
-- **Status:** In Progress
+  - **Database Reliability:** The interaction with a PostgreSQL database through SQLAlchemy ensured reliable storage of message history, offering users confidence in the integrity of their communication data.
+  - **User Interaction:**  Improved the user interface by implementing visually engaging alerts through SweetAlert and creating a refined graphical layout with Bootstrap and CSS3 to enhance usability
+- **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, Socket.IO, Flask-SocketIO, Werkzeug, JWT
+- **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/IrisChat)
 
 <h2> Fun facts about me </h2>

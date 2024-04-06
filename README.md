@@ -40,6 +40,17 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 - **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, Socket.IO, Flask-SocketIO, Werkzeug, JWT
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/IrisChat)
+- **Live Demo** (Please Note: Server Performance Issue Due to Free Hosting)
+
+  Experience IrisChat in action! Click the button below to access the live application.
+
+  [Access Live Demo](https://sample-service-name-a9gh.onrender.com)
+
+  **Server Performance Notice:**
+  I am currently experiencing server performance issues due to our use of a free hosting service. As a result, you may encounter slower response times and delays in loading      messages while using the live demo.
+  Please be patient and understanding as I work within the limitations of my hosting provider. Your feedback is incredibly valuable to me as I continue to explore options for   improving the performance of IrisChat.
+
+  Thank you for your patience and continued support!
 
 <h2> Fun facts about me </h2>
 - 🥁 Drummer for over 10 years, jamming to Nu-metal and Grunge. Got a song recommendation? Share it, and I'll drum up a storm!

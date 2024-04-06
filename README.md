@@ -27,6 +27,9 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 - **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, JWT, Werkzeug
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/CRM-for-SME)
+- **Live Demo:**
+  Experience CRM-for-SME in action! Click the button below to access the live application.<br>
+  [Access Live Demo](https://crm-for-sme.onrender.com/)
 
 #### IrisChat: Real-time Chat Application
 - **Description:** IrisChat is a real-time chat application that enables users to send private messages within the registered users in the application. The application provides a seamless and interactive platform for communication, encouraging collaboration and connectivity among users. The platform's main development relied heavily on Flask, Python, React.js, and the Flux architecture.
@@ -40,14 +43,12 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 - **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, Socket.IO, Flask-SocketIO, Werkzeug, JWT
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/IrisChat)
-- **Live Demo** (Please Note: Server Performance Issue Due to Free Hosting)
-
-  Experience IrisChat in action! Click the button below to access the live application.
-
+- **Live Demo:** (Please Note: Server Performance Issue Due to Free Hosting)<br>
+  Experience IrisChat in action! Click the button below to access the live application.<br>
   [Access Live Demo](https://sample-service-name-a9gh.onrender.com)
 
   **Server Performance Notice:**
-  I am currently experiencing server performance issues due to our use of a free hosting service. As a result, you may encounter slower response times and delays in loading      messages while using the live demo.
+  I am currently experiencing server performance issues caused by using a free hosting service. As a result, you may encounter slower response times and delays in loading      messages while using the live demo.
   Please be patient and understanding as I work within the limitations of my hosting provider. Your feedback is incredibly valuable to me as I continue to explore options for   improving the performance of IrisChat.
 
   Thank you for your patience and continued support!

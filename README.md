@@ -13,7 +13,7 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 
 <h2> ⌨️ 🖱️ Projects</h2>
 
-#### CRM-for-SME: Client Relationship Management for Small and Medium Enterprises 
+#### CRM-for-SME: Client Relationship Management for Small and Medium-sized Enterprises 
 - **Description:** CRM-for-SME is an online platform designed to streamline client relationship management. It provides users with access to a centralized database, enabling effective management of client interactions. The platform was primarily developed using Flask, Python, React.js, and Flux architecture.
 - **Features:**
   - **Clients:** Users can create and maintain a client roster for easy access and management.
@@ -27,8 +27,9 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 - **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, JWT, Werkzeug
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/CRM-for-SME)
-- **Live Demo:**
-  Experience CRM-for-SME in action! Click the button below to access the live application.<br>
+- **Demo Video:** Watch a video walkthrough where I explain how CRM-for-SME works and demonstrates its key features.<br>
+  [Demo Video](https://youtu.be/GFLDsmT95I0?si=BxYA5gWUWXI_v5_Z)
+- **Live Demo:** Experience CRM-for-SME in action! Click the button below to access the live application.<br>
   [Access Live Demo](https://crm-for-sme.onrender.com/)
 
 #### IrisChat: Real-time Chat Application
@@ -43,6 +44,8 @@ As a Full-stack Software Developer, my identity is shaped not only by technical 
 - **Technologies Used:** HTML5, CSS3, Bootstrap, SweetAlert, JavaScript, React.js, Flask, Python, Flux architecture, SQL Alchemy, PostgreSQL, Socket.IO, Flask-SocketIO, Werkzeug, JWT
 - **Status:** Completed
 - **GitHub Repository:** [Explore the project on GitHub](https://github.com/Fabo90/IrisChat)
+- **Demo Video:** Watch a video walkthrough where I explain how Iris Chat works and demonstrates its key features.<br>
+  [Demo Video](https://www.youtube.com/watch?v=FyHrNosOO3s)
 - **Live Demo:** (Please Note: Server Performance Issue Due to Free Hosting)<br>
   Experience IrisChat in action! Click the button below to access the live application.<br>
   [Access Live Demo](https://sample-service-name-a9gh.onrender.com)
